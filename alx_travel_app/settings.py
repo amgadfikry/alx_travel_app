@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'corsheaders',
     'drf_yasg',
+    'listings',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
